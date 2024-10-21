@@ -1,2 +1,3 @@
   👋 Hi, I’m @Dev-Dolawatta
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
+
